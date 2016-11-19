@@ -151,7 +151,3 @@ These steps are also used when ***down-scaling of cluster*** is required
 ## Actor Scavenger
 
 Scavenge job to ***remove dormant actors*** from the ***actor mapping*** periodically so that the instance can be de-refernced thus can be garbage collected.
-
-## Testing the actor system - Chaos Monkey testing
-
-After designing and developing everything, now its time to ***let the monkey loose in the data center*** to play with the plugs.
