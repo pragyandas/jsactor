@@ -1,0 +1,8 @@
+{
+	"account": {
+		"id": ["id"]
+	},
+	"accountBalance": {
+		"id": ["accBal_", "id"]
+	}
+}

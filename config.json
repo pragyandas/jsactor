@@ -1,0 +1,7 @@
+{
+    "initialNodes": ["http://127.0.0.1:3001", "http://127.0.0.1:3002","http://127.0.0.1:3003"],
+    "dispatcherURL": "http://127.0.0.1",
+    "dispatcherPort": 3000,
+    "rootNodeServer" : "http://localhost:3001"
+
+}

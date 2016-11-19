@@ -1,0 +1,29 @@
+{
+  "name": "actor-pattern-shopping-cart-poc",
+  "version": "1.0.0",
+  "description": "While a subroutine is executed sequentially and straightly, a coroutine can suspend and resume its execution at distinct points in code. Thus, coroutines are good primitives for cooperative task handling, as coroutines are able to yield execution. The advantages of cooperative task handling especially in case of massive parallelism of asynchronous operations such as I/O are in plenty.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pragyan",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.2",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "hashring": "^3.2.0",
+    "mongoose": "^4.6.4",
+    "node-uuid": "^1.4.7",
+    "restler": "^3.4.0",
+    "rx": "^4.1.0",
+    "socket.io": "^1.5.1",
+    "socket.io-client": "^1.5.1",
+    "winston": "^2.2.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2",
+    "sinon": "^1.17.6"
+  }
+}

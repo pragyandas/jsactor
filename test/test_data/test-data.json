@@ -1,0 +1,4 @@
+[
+    {"id":1111,"type": "account","message": { "from":1111, "to":2222, "amount":100 } },
+    {"id":2222,"type": "account","message": { "from":2222, "to":3333, "amount":100 } }
+]
